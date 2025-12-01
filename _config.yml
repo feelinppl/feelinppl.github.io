@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Lou's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Lou"
+name                     : "Louan"
 description              : "This blog summarizes the data science theories and practical methods."
 url                      : "feelinppl.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Lou"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Hello, I'm Louan, a Ph.D. student in Information Systems at Yonsei University."
   location         : "Somewhere"
   email            :
   links:
